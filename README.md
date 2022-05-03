@@ -8,17 +8,20 @@ Talking about Personal Stuffs:
 - Over 15 years of extensive experience in Web Development 
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
 - My specialization:<br> 
-✔ making Web applications from design files (Mockup, XD, Photoshop, Figma)<br>
-✔ using OpenSea and Moralis NFT API for DApp, Web3 App, and NFT marketplace development<br>
-✔ using GrapesJs for component/ page builder development<br>
-✔ using Shopify SDK/ API for Online Store development<br>
-✔ using several Rest/Soap APIs such as Headless CMS( Contentful ), social network API (Google, Facebook, Twitter)<br>
-✔ using geolocation and Google Maps/ OpenStreetMap<br>
-✔ using relation DB like MySQL and non-relation DB like MongoDB<br>
-✔ using Firebase, Twilio for video/audio/text-chat support<br><br>
+✔ Wireframes ( PSD /Figma /invision /adobeXD ) into front-end code<br>
+✔ HTML5, CSS3, Bootstrap 4, SAAS, Three.js, Angular 2 - 9, React, Vue.js<br>
+✔ AWS cloud, AWS DevOps, AWS S3, Azure<br>
+✔ Restful API, SOAP, cURL<br>
+✔ PHP, Laravel, Symfony, Drupal, Node.js<br>
+✔ User Authentication and Authorization<br>
+✔ Twilio and third party payment integrations ( Paypal, Stripe, Google pay, Apple pay ...)<br>
+✔ Migrate the website to any hosting<br>
+✔ MySQL Server, Oracle, PostgreSQL,  MongoDB<br>
+✔ TFS , VSS , SVN, Git, BitBucket, GitLab<br>
+✔ Complex business requirements into software ensuring applications<br><br>
 
-I pride myself on being extremely professional and aim to always deliver a job well before a deadline. I'm extremely proud of my personable yet professional manner and possess excellent communication skills.
-I look forward to working with you and helping you stream your tasks to improve your business productivity. Thank you. <br><br>
+ I  have a strong collaboration skills to develop and maintain a positive team cohesiveness. I'm in love with Restful API, I have spent thousands of hours working with it, have built tons of apps and APIs on top of Several frameworks.
+I have already a lot of experience in management system of HIPPA complicant, online reservations, travel and data analytics, inventory, reporting , Tax business.  Thank you. <br><br>
 
 If you have any questions, you are welcome anytime.
 ##
