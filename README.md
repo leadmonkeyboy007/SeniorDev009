@@ -3,12 +3,12 @@
 
 Talking about Personal Stuffs:
 
-- NickName: Tortu ( Full Stack Developer | Web & Mobile ).<br>
+- NickName: Bot 11X11 ( Full Stack Web Developer ).<br>
 - Main developer in [Fast Test Now - Fast Covid-19 Testing. )](https://fasttestnow.com/) and [RVs & Motorhomes For Sale](https://www.lamesarv.com/)<br>
-- Over 8 years of extensive experience in Web, Mobile Development 
+- Over 15 years of extensive experience in Web Development 
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
 - My specialization:<br> 
-✔ making Web, Mobile applications from design files (Mockup, XD, Photoshop, Figma)<br>
+✔ making Web applications from design files (Mockup, XD, Photoshop, Figma)<br>
 ✔ using OpenSea and Moralis NFT API for DApp, Web3 App, and NFT marketplace development<br>
 ✔ using GrapesJs for component/ page builder development<br>
 ✔ using Shopify SDK/ API for Online Store development<br>
