@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://github.com/TortuC/TortuC/blob/master/img/hello.gif" /> Let your dreams come true !
+## <img height="60" width="60" src="https://github.com/TortuC/TortuC/blob/master/img/hello.gif" /> Hope to make good work with you
 
 
 Talking about Personal Stuffs:
@@ -81,6 +81,6 @@ If you have any questions, you are welcome anytime.
 ##
 ##### GitHub status
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tortuc&theme=highcontrast&show_icons=true&count_private=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortuc&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true" height="165" >
+    <img src="https://github-readme-stats.vercel.app/api?username=SeniorDev009&theme=highcontrast&show_icons=true&count_private=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorDev009&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true" height="165" >
 </p>
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
