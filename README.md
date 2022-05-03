@@ -1,7 +1,7 @@
 ## <img height="60" width="60" src="https://github.com/TortuC/TortuC/blob/master/img/hello.gif" /> Hope to make good work with you
 
 
-Talking about Personal Stuffs:
+My Skills:
 
 - NickName: Bot 11X11 ( Full Stack Web Developer ).<br>
 - Main developer in [Fast Test Now - Fast Covid-19 Testing. )](https://fasttestnow.com/) and [RVs & Motorhomes For Sale](https://www.lamesarv.com/)<br>
