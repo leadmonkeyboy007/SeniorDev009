@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://github.com/TortuC/TortuC/blob/master/img/hello.gif" /> Grow up with your company in a LONG term
+## <img height="60" width="60" src="https://github.com/TortuC/TortuC/blob/master/img/hello.gif" /> Looking for a Long Term friendly business relationship with you
 
 
 About me:
